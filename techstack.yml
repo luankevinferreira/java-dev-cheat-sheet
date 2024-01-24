@@ -1,0 +1,20 @@
+repo_name: luankevinferreira/java-dev-cheat-sheet
+report_id: 9df2c30fbe079b01f22112e1b6041780
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-24T00:03:06+00:00'
+requested_by: luankevinferreira
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/luankevinferreira/java-dev-cheat-sheet
+  detection_source: Repo Metadata
